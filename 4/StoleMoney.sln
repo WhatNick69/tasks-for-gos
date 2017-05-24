@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thiefs", "Thiefs\Thiefs.csproj", "{B38F2080-8238-476E-A26E-C0D1740ED1DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationCombinations", "ConsoleApplicationCombinations\ConsoleApplicationCombinations.csproj", "{6A842569-4FCD-4F28-B27A-80675C827578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38F2080-8238-476E-A26E-C0D1740ED1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38F2080-8238-476E-A26E-C0D1740ED1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38F2080-8238-476E-A26E-C0D1740ED1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38F2080-8238-476E-A26E-C0D1740ED1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A842569-4FCD-4F28-B27A-80675C827578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A842569-4FCD-4F28-B27A-80675C827578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A842569-4FCD-4F28-B27A-80675C827578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A842569-4FCD-4F28-B27A-80675C827578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\ObjectProgramming\Labs\bin\Debug\Labs.dll
+C:\Users\user\Desktop\ObjectProgramming\Labs\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\ObjectProgramming\Labs\obj\Debug\Labs.dll
+C:\Users\user\Desktop\ObjectProgramming\Labs\obj\Debug\Labs.pdb
+C:\Users\user\Desktop\Задача 1\Labs\bin\Debug\Labs.dll
+C:\Users\user\Desktop\Задача 1\Labs\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\Задача 1\Labs\obj\Debug\Labs.dll
+C:\Users\user\Desktop\Задача 1\Labs\obj\Debug\Labs.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\Labs\bin\Debug\Labs.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\Labs\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\Labs\obj\Debug\Labs.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\Labs\obj\Debug\Labs.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\Labs\obj\Debug\Lab.csprojResolveAssemblyReference.cache

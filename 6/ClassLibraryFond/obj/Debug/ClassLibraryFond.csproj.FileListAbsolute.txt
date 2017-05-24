@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\задача 16\FondSkol\ClassLibraryFond\bin\Debug\ClassLibraryFond.dll
+C:\Users\user\Desktop\задача 16\FondSkol\ClassLibraryFond\bin\Debug\ClassLibraryFond.pdb
+C:\Users\user\Desktop\задача 16\FondSkol\ClassLibraryFond\obj\Debug\ClassLibraryFond.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\задача 16\FondSkol\ClassLibraryFond\obj\Debug\ClassLibraryFond.dll
+C:\Users\user\Desktop\задача 16\FondSkol\ClassLibraryFond\obj\Debug\ClassLibraryFond.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\FondSkol\ClassLibraryFond\bin\Debug\ClassLibraryFond.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\FondSkol\ClassLibraryFond\bin\Debug\ClassLibraryFond.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\FondSkol\ClassLibraryFond\obj\Debug\ClassLibraryFond.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\FondSkol\ClassLibraryFond\obj\Debug\ClassLibraryFond.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\FondSkol\ClassLibraryFond\obj\Debug\ClassLibraryFond.pdb

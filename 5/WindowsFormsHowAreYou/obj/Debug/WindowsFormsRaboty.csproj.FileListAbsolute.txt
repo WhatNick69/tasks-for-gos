@@ -1,0 +1,33 @@
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\obj\Debug\WindowsFormsRaboty.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.Properties.Resources.resources
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\obj\Debug\WindowsFormsRaboty.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.exe
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.pdb
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.exe.config
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.exe
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.pdb
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\bin\Debug\Labs.dll
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\ObjectProgramming\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.FormRaboty.resources
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.exe.config
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.exe
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.pdb
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.exe
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.pdb
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\bin\Debug\Labs.dll
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\obj\Debug\WindowsFormsRaboty.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.FormRaboty.resources
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.Properties.Resources.resources
+C:\Users\user\Desktop\Задача 1\WindowsFormsHowAreYou\obj\Debug\WindowsFormsRaboty.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\bin\Debug\WindowsFormsHowAreYou.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\bin\Debug\Labs.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\obj\Debug\WindowsFormsRaboty.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.FormRaboty.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\obj\Debug\WindowsFormsHowAreYou.Properties.Resources.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Rabota\WindowsFormsHowAreYou\obj\Debug\WindowsFormsRaboty.csproj.GenerateResource.Cache

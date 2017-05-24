@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\DLLFamilyBank\bin\Debug\DLLFamilyBank.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\DLLFamilyBank\bin\Debug\DLLFamilyBank.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\DLLFamilyBank\obj\Debug\DLLFamilyBank.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\DLLFamilyBank\obj\Debug\DLLFamilyBank.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\DLLFamilyBank\obj\Debug\DLLFamilyBank.pdb

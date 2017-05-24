@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\bin\Debug\ThreadedInterface.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\bin\Debug\ThreadedInterface.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\bin\Debug\ThreadedInterface.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\obj\Debug\ThreadedInterface.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\obj\Debug\ThreadedInterface.Properties.Resources.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\obj\Debug\ThreadedInterface.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\obj\Debug\ThreadedInterface.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\obj\Debug\ThreadedInterface.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП 4.5\ThreadedInterface\ThreadedInterface\obj\Debug\ThreadedInterface.MainForm.resources

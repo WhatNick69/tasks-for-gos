@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\bin\Debug\Merge.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\bin\Debug\Merge.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\bin\Debug\Merge.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\obj\Debug\Merge.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\obj\Debug\Merge.Form1.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\obj\Debug\Merge.Properties.Resources.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\obj\Debug\Merge.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\obj\Debug\Merge.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BigMerge\Merge\obj\Debug\Merge.pdb

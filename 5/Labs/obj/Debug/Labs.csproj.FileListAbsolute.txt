@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\ObjectProgramming\Labs\bin\Debug\Labs.dll
+c:\users\admin\documents\visual studio 2013\Projects\ObjectProgramming\Labs\bin\Debug\Labs.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ObjectProgramming\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ObjectProgramming\Labs\obj\Debug\Labs.dll
+c:\users\admin\documents\visual studio 2013\Projects\ObjectProgramming\Labs\obj\Debug\Labs.pdb
+C:\Users\user\Desktop\ObjectProgramming\Labs\bin\Debug\Labs.dll
+C:\Users\user\Desktop\ObjectProgramming\Labs\bin\Debug\Labs.pdb
+C:\Users\user\Desktop\ObjectProgramming\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObjectProgramming\Labs\obj\Debug\Labs.dll
+C:\Users\user\Desktop\ObjectProgramming\Labs\obj\Debug\Labs.pdb

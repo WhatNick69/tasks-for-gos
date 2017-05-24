@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\bin\Debug\COmplex.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\bin\Debug\COmplex.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\bin\Debug\COmplex.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\obj\Debug\COmplex.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\obj\Debug\COmplex.Properties.Resources.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\obj\Debug\COmplex.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\obj\Debug\COmplex.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\obj\Debug\COmplex.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Complex_Numbers\COmplex\obj\Debug\COmplex.Complex_numbers.resources

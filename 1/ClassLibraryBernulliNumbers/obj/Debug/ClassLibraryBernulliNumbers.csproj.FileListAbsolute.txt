@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ClassLibraryBernulliNumbers\bin\Debug\ClassLibraryBernulliNumbers.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ClassLibraryBernulliNumbers\bin\Debug\ClassLibraryBernulliNumbers.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ClassLibraryBernulliNumbers\obj\Debug\ClassLibraryBernulliNumbers.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ClassLibraryBernulliNumbers\obj\Debug\ClassLibraryBernulliNumbers.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ClassLibraryBernulliNumbers\obj\Debug\ClassLibraryBernulliNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ClassLibraryBernulliNumbers\bin\Debug\ClassLibraryBernulliNumbers.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ClassLibraryBernulliNumbers\bin\Debug\ClassLibraryBernulliNumbers.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ClassLibraryBernulliNumbers\obj\Debug\ClassLibraryBernulliNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ClassLibraryBernulliNumbers\obj\Debug\ClassLibraryBernulliNumbers.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ClassLibraryBernulliNumbers\obj\Debug\ClassLibraryBernulliNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Задачи на ГОСы\2\DLLPolygon\DLLPolygon\bin\Debug\DLLPolygon.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\2\DLLPolygon\DLLPolygon\bin\Debug\DLLPolygon.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\2\DLLPolygon\DLLPolygon\obj\Debug\DLLPolygon.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Задачи на ГОСы\2\DLLPolygon\DLLPolygon\obj\Debug\DLLPolygon.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\2\DLLPolygon\DLLPolygon\obj\Debug\DLLPolygon.pdb

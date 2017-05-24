@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab", "Labs\Lab.csproj", "{2926BE0D-5DE9-4C5F-AC73-16871B4154D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsRaboty", "WindowsFormsHowAreYou\WindowsFormsRaboty.csproj", "{294721B1-B1F7-43A6-8C75-B27055BB71D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2926BE0D-5DE9-4C5F-AC73-16871B4154D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2926BE0D-5DE9-4C5F-AC73-16871B4154D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2926BE0D-5DE9-4C5F-AC73-16871B4154D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2926BE0D-5DE9-4C5F-AC73-16871B4154D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294721B1-B1F7-43A6-8C75-B27055BB71D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294721B1-B1F7-43A6-8C75-B27055BB71D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294721B1-B1F7-43A6-8C75-B27055BB71D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294721B1-B1F7-43A6-8C75-B27055BB71D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

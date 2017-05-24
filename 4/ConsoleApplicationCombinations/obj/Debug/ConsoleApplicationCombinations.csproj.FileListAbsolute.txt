@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\bin\Debug\ConsoleApplicationCombinations.exe.config
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\bin\Debug\ConsoleApplicationCombinations.exe
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\bin\Debug\ConsoleApplicationCombinations.pdb
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\bin\Debug\Thiefs.dll
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\bin\Debug\Thiefs.pdb
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\obj\Debug\ConsoleApplicationCombinations.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\obj\Debug\ConsoleApplicationCombinations.exe
+C:\Users\user\Desktop\задача 16\StoleMoney\ConsoleApplicationCombinations\obj\Debug\ConsoleApplicationCombinations.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\bin\Debug\ConsoleApplicationCombinations.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\obj\Debug\ConsoleApplicationCombinations.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\obj\Debug\ConsoleApplicationCombinations.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\bin\Debug\ConsoleApplicationCombinations.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\bin\Debug\ConsoleApplicationCombinations.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\bin\Debug\Thiefs.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\bin\Debug\Thiefs.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\StoleMoney\ConsoleApplicationCombinations\obj\Debug\ConsoleApplicationCombinations.csprojResolveAssemblyReference.cache

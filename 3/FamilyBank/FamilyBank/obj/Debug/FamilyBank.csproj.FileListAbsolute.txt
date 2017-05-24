@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\bin\Debug\FamilyBank.exe
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\bin\Debug\FamilyBank.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\bin\Debug\DLLFamilyBank.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\bin\Debug\DLLFamilyBank.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\obj\Debug\FamilyBank.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\obj\Debug\FamilyBank.Form1.resources
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\obj\Debug\FamilyBank.Properties.Resources.resources
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\obj\Debug\FamilyBank.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\obj\Debug\FamilyBank.exe
+C:\Users\user\OneDrive\Задачи на ГОСы\3\FamilyBank\FamilyBank\obj\Debug\FamilyBank.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\bin\Debug\PolinomForm.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\obj\Debug\PolinomForm.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\obj\Debug\PolinomForm.Form1.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\obj\Debug\PolinomForm.Properties.Resources.resources
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\obj\Debug\PolinomForm.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\bin\Debug\PolinomForm.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\bin\Debug\PolinomForm.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\obj\Debug\PolinomForm.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\Polinomy\PolinomForm\obj\Debug\PolinomForm.pdb

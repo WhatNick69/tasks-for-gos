@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\bin\Debug\ConsoleApplicationBernulliRow.exe.config
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\bin\Debug\ConsoleApplicationBernulliRow.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\bin\Debug\ConsoleApplicationBernulliRow.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\bin\Debug\ClassLibraryBernulliNumbers.dll
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\bin\Debug\ClassLibraryBernulliNumbers.pdb
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\obj\Debug\ConsoleApplicationBernulliRow.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\obj\Debug\ConsoleApplicationBernulliRow.exe
+C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliRow\obj\Debug\ConsoleApplicationBernulliRow.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\bin\Debug\ConsoleApplicationBernulliRow.exe.config
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\obj\Debug\ConsoleApplicationBernulliRow.exe
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\obj\Debug\ConsoleApplicationBernulliRow.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\bin\Debug\ConsoleApplicationBernulliRow.exe
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\bin\Debug\ConsoleApplicationBernulliRow.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\bin\Debug\ClassLibraryBernulliNumbers.dll
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\bin\Debug\ClassLibraryBernulliNumbers.pdb
+C:\Users\user\OneDrive\Задачи на ГОСы\1\ConsoleApplicationBernulliRow\obj\Debug\ConsoleApplicationBernulliRow.csprojResolveAssemblyReference.cache
