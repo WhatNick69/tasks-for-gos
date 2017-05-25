@@ -1,8 +1,0 @@
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\bin\Debug\ConsoleApplicationBernulliEnter.exe.config
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\bin\Debug\ConsoleApplicationBernulliEnter.exe
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\bin\Debug\ConsoleApplicationBernulliEnter.pdb
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\bin\Debug\ClassLibraryBernulliNumbers.dll
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\bin\Debug\ClassLibraryBernulliNumbers.pdb
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\obj\Debug\ConsoleApplicationBernulliEnter.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\obj\Debug\ConsoleApplicationBernulliEnter.exe
-C:\Users\user\Desktop\ФИТ ПИН\ООП\BernulliNumbers\ConsoleApplicationBernulliEnter\obj\Debug\ConsoleApplicationBernulliEnter.pdb

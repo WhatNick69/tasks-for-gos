@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalSort", "UniversalSort\UniversalSort.csproj", "{3CF504D9-9CB1-4D51-9886-7505B9396EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLUniversalSort", "UniversalSorter\DLLUniversalSort.csproj", "{774327F6-25B5-474C-ACEC-50D1864C8106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF504D9-9CB1-4D51-9886-7505B9396EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF504D9-9CB1-4D51-9886-7505B9396EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF504D9-9CB1-4D51-9886-7505B9396EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF504D9-9CB1-4D51-9886-7505B9396EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774327F6-25B5-474C-ACEC-50D1864C8106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774327F6-25B5-474C-ACEC-50D1864C8106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774327F6-25B5-474C-ACEC-50D1864C8106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774327F6-25B5-474C-ACEC-50D1864C8106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
